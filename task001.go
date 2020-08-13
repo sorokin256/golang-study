@@ -8,3 +8,4 @@ func main() {
 	a = a * a
 	fmt.Println(a)
 }
+
