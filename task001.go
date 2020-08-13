@@ -1,12 +1,10 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
 	var a int
 	fmt.Scan(&a)
 	a = a * a
-	fmt.Print(a)
+	fmt.Println(a)
 }
